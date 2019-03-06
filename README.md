@@ -10,10 +10,3 @@ The goal is to work through this notebook to help the company understand if they
 - Statsmodel library
 <br>
 
-
-### Files
-<br>
-Two files with data included:<br>
-
-- ab_data.csv
-- countries.csv
